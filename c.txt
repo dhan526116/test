@@ -7,6 +7,8 @@ man
 no
 or
 yes
-
+fix issue 0
 fix issue 1
+fix issue 3
+fix issue 4
 
